@@ -8,13 +8,13 @@ h1{
 body{
      background-size: contain;
     opacity: -1px;
-    background-image: url(https://aaronvick.com/wp-content/uploads/2019/03/Image_1-3.jpeg);
-    color: rgb(4, 0, 255);
+    background-image: url(https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/sites/110391/images/LRk9DcTaTxqcQfHuWdnZ_file.jpg);
+    color: black;
     align-items: center;
     
 }
 header{
-    background-color: rgb(246, 255, 80);
+    background-color: rgb(242, 165, 64);
    font-size: xx-large;
     color: rgb(0, 0, 0);
     font-style: oblique;
@@ -22,5 +22,12 @@ header{
     word-spacing: 100px;
     font-size: xx-large;
     font-family: 'Comic Sans MS', Times, serif;
-    
+} 
+video{
+    align-self: auto;
+    border-radius: 1cqmax;
+    align-content: space-around;
+    border-color: brown;
+
 }
+
